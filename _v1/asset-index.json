@@ -1,0 +1,406 @@
+{
+  "schema_version": "1.0.0",
+  "asset_size_bytes": 26186734,
+  "asset_count": 245,
+  "file_count": 1,
+  "pages": [
+    {
+      "url": "_v1/assets-00000.json",
+      "hash": "SHA256:9fc08c1a9fb4eb001f0b3c7bcdbb86c127aad8582ba7dbe0b144905fd2e54b49"
+    }
+  ],
+  "catalogs": [
+    {
+      "path": "CGMatter",
+      "uuids": [
+        "a0342260-33fd-4d05-8c24-c718a7d1112f"
+      ],
+      "simple_name": "CGMatter"
+    },
+    {
+      "path": "CGMatter/Curve",
+      "uuids": [
+        "e012f4e9-d34e-4d44-85fd-cf22b6cd4e2e"
+      ],
+      "simple_name": "CGMatter-Curve"
+    },
+    {
+      "path": "CGMatter/Curve/Convert",
+      "uuids": [
+        "2d2868b0-4b91-45b3-a961-1d01ca785b72"
+      ],
+      "simple_name": "CGMatter-Curve-Convert"
+    },
+    {
+      "path": "CGMatter/Curve/Edit",
+      "uuids": [
+        "b34ad4f9-6114-4276-8dd8-f5d600a9629f"
+      ],
+      "simple_name": "CGMatter-Curve-Edit"
+    },
+    {
+      "path": "CGMatter/Curve/Primitive",
+      "uuids": [
+        "702c1fe3-3c8f-4862-bab1-f66dc2c53793"
+      ],
+      "simple_name": "CGMatter-Curve-Primitive"
+    },
+    {
+      "path": "CGMatter/Distribution",
+      "uuids": [
+        "362890dc-abd4-4f89-84df-d3c0850ccfe7"
+      ],
+      "simple_name": "CGMatter-Distribution"
+    },
+    {
+      "path": "CGMatter/Distribution/Points",
+      "uuids": [
+        "1c16803a-db16-47b7-94fe-7a78d589e7ab"
+      ],
+      "simple_name": "CGMatter-Distribution-Points"
+    },
+    {
+      "path": "CGMatter/Fields",
+      "uuids": [
+        "45c42e8c-7091-4d41-9229-6ae69ae15475"
+      ],
+      "simple_name": "CGMatter-Fields"
+    },
+    {
+      "path": "CGMatter/Fields/Math",
+      "uuids": [
+        "9b3bb3e8-2bbf-485a-bc77-cd2cc6ffde7b"
+      ],
+      "simple_name": "CGMatter-Fields-Math"
+    },
+    {
+      "path": "CGMatter/Fields/Misc",
+      "uuids": [
+        "55b0f3e3-7cc5-48c0-93c9-2f9e12002428"
+      ],
+      "simple_name": "CGMatter-Fields-Misc"
+    },
+    {
+      "path": "CGMatter/Fields/Physics",
+      "uuids": [
+        "682d788e-fdf8-47be-a0d1-aa08aef645d5"
+      ],
+      "simple_name": "CGMatter-Fields-Physics"
+    },
+    {
+      "path": "CGMatter/Fields/Position",
+      "uuids": [
+        "ed6215be-4fc4-4a6f-9396-622aee33a025"
+      ],
+      "simple_name": "CGMatter-Fields-Position"
+    },
+    {
+      "path": "CGMatter/Fields/Time",
+      "uuids": [
+        "2858c093-e12a-4477-9424-8cdfd48eaf47"
+      ],
+      "simple_name": "CGMatter-Fields-Time"
+    },
+    {
+      "path": "CGMatter/Math",
+      "uuids": [
+        "91756c3e-cc01-4657-b597-d789ec6c77fc"
+      ],
+      "simple_name": "CGMatter-Math"
+    },
+    {
+      "path": "CGMatter/Math/Debug",
+      "uuids": [
+        "11f0db5d-11d9-48ef-b6e9-ad1074126a7f"
+      ],
+      "simple_name": "CGMatter-Math-Debug"
+    },
+    {
+      "path": "CGMatter/Math/Float",
+      "uuids": [
+        "c6f272b3-c81f-4580-b186-39f1b829dcc9"
+      ],
+      "simple_name": "CGMatter-Math-Float"
+    },
+    {
+      "path": "CGMatter/Math/Matrix",
+      "uuids": [
+        "7a08a6a0-2642-494c-a48a-62b7d485f54a"
+      ],
+      "simple_name": "CGMatter-Math-Matrix"
+    },
+    {
+      "path": "CGMatter/Math/Rotation",
+      "uuids": [
+        "3a49091c-ffa5-4b62-8634-ab20d7172788"
+      ],
+      "simple_name": "CGMatter-Math-Rotation"
+    },
+    {
+      "path": "CGMatter/Math/Vector",
+      "uuids": [
+        "b32b0a0e-82a8-4e49-86a0-1959f4eff9d7"
+      ],
+      "simple_name": "CGMatter-Math-Vector"
+    },
+    {
+      "path": "CGMatter/Mesh",
+      "uuids": [
+        "14b16154-3f53-4e33-b129-009c1b5a6089"
+      ],
+      "simple_name": "CGMatter-Mesh"
+    },
+    {
+      "path": "CGMatter/Mesh/Attributes",
+      "uuids": [
+        "85bafb10-02ed-4f95-9370-1c3b8b499424"
+      ],
+      "simple_name": "CGMatter-Mesh-Attributes"
+    },
+    {
+      "path": "CGMatter/Mesh/Bounds",
+      "uuids": [
+        "8c20fedf-d10e-4512-9be9-f1d63cef74ac"
+      ],
+      "simple_name": "CGMatter-Mesh-Bounds"
+    },
+    {
+      "path": "CGMatter/Mesh/Edit",
+      "uuids": [
+        "49b453fe-18d2-4657-8fe5-7662177e0274"
+      ],
+      "simple_name": "CGMatter-Mesh-Edit"
+    },
+    {
+      "path": "CGMatter/Mesh/Primitives",
+      "uuids": [
+        "7ed37031-741d-48dd-97ff-7dcb5daaf2d6"
+      ],
+      "simple_name": "CGMatter-Mesh-Primitives"
+    },
+    {
+      "path": "CGMatter/Mesh/Remesh",
+      "uuids": [
+        "d0d35e8b-9353-4e51-bb7b-3dc0fda84793"
+      ],
+      "simple_name": "CGMatter-Mesh-Remesh"
+    },
+    {
+      "path": "CGMatter/Mesh/Separate",
+      "uuids": [
+        "0ab86b33-2281-4941-b525-882096318433"
+      ],
+      "simple_name": "CGMatter-Mesh-Separate"
+    },
+    {
+      "path": "CGMatter/Mesh/Transform",
+      "uuids": [
+        "f34eb272-1e2d-46bf-83f3-df826664ace7"
+      ],
+      "simple_name": "CGMatter-Mesh-Transform"
+    },
+    {
+      "path": "CGMatter/Solvers",
+      "uuids": [
+        "e68eb12f-26dc-44cf-983d-61fb68f16a8a"
+      ],
+      "simple_name": "CGMatter-Solvers"
+    },
+    {
+      "path": "CGMatter/Solvers/Coloring",
+      "uuids": [
+        "c9244cbe-5219-43f6-a829-c9c7c37d5605"
+      ],
+      "simple_name": "CGMatter-Solvers-Coloring"
+    },
+    {
+      "path": "CGMatter/Solvers/Coloring/Algorithms",
+      "uuids": [
+        "5b7a2dbd-0ee2-4039-ac2d-7c3e7613d642"
+      ],
+      "simple_name": "CGMatter-Solvers-Coloring-Algorithms"
+    },
+    {
+      "path": "CGMatter/Solvers/Coloring/Validators",
+      "uuids": [
+        "03a1225f-7fdb-49b7-862d-30c7195e9be1"
+      ],
+      "simple_name": "CGMatter-Solvers-Coloring-Validators"
+    },
+    {
+      "path": "CGMatter/Solvers/Conway",
+      "uuids": [
+        "69f2969e-fcdf-4255-94e5-173401b3e80d"
+      ],
+      "simple_name": "CGMatter-Solvers-Conway"
+    },
+    {
+      "path": "CGMatter/Solvers/Conway/Effectors",
+      "uuids": [
+        "6b382855-0707-45d4-b00d-b72baea8d07f"
+      ],
+      "simple_name": "CGMatter-Solvers-Conway-Effectors"
+    },
+    {
+      "path": "CGMatter/Solvers/Conway/Helpers",
+      "uuids": [
+        "abcf470f-3a43-43f9-9628-328919880d0a"
+      ],
+      "simple_name": "CGMatter-Solvers-Conway-Helpers"
+    },
+    {
+      "path": "CGMatter/Solvers/Fluid",
+      "uuids": [
+        "6723afc6-0cde-4d0c-832e-c88f536cb7af"
+      ],
+      "simple_name": "CGMatter-Solvers-Fluid"
+    },
+    {
+      "path": "CGMatter/Solvers/Fluid/Emitter",
+      "uuids": [
+        "955a69b5-e98d-463e-b551-82aeba801b33"
+      ],
+      "simple_name": "CGMatter-Solvers-Fluid-Emitter"
+    },
+    {
+      "path": "CGMatter/Solvers/Fluid/Forces",
+      "uuids": [
+        "a6f0d655-176f-4a60-8a64-15b19495f3b9"
+      ],
+      "simple_name": "CGMatter-Solvers-Fluid-Forces"
+    },
+    {
+      "path": "CGMatter/Solvers/Fracture",
+      "uuids": [
+        "1c3e7f75-aefc-4d54-a212-3dc4c695b5c1"
+      ],
+      "simple_name": "CGMatter-Solvers-Fracture"
+    },
+    {
+      "path": "CGMatter/Solvers/SDF",
+      "uuids": [
+        "35641a02-bb3b-4ee6-8f6b-a09e86dd6b95"
+      ],
+      "simple_name": "CGMatter-Solvers-SDF"
+    },
+    {
+      "path": "CGMatter/Solvers/XPBD",
+      "uuids": [
+        "761e611d-1fcd-49e1-90a1-8577c9406e50"
+      ],
+      "simple_name": "CGMatter-Solvers-XPBD"
+    },
+    {
+      "path": "CGMatter/Solvers/XPBD/Constraints",
+      "uuids": [
+        "e9764473-33ba-4bfb-b46a-08aa4c2fa3ab"
+      ],
+      "simple_name": "CGMatter-Solvers-XPBD-Constraints"
+    },
+    {
+      "path": "CGMatter/Solvers/XPBD/Forces",
+      "uuids": [
+        "e1733cab-612b-4792-a038-4a9e4232d869"
+      ],
+      "simple_name": "CGMatter-Solvers-XPBD-Forces"
+    },
+    {
+      "path": "CGMatter/Solvers/XPBD/Helpers",
+      "uuids": [
+        "2ee45a25-7cb6-40bc-b879-9802096caeb0"
+      ],
+      "simple_name": "CGMatter-Solvers-XPBD-Helpers"
+    },
+    {
+      "path": "CGMatter/String",
+      "uuids": [
+        "90bb66b3-91cc-4165-84b3-59f8c4131b64"
+      ],
+      "simple_name": "CGMatter-String"
+    },
+    {
+      "path": "CGMatter/String/Conversion",
+      "uuids": [
+        "93be2aa5-f1ba-4e67-9be1-7cfe2de57c60"
+      ],
+      "simple_name": "CGMatter-String-Conversion"
+    },
+    {
+      "path": "CGMatter/String/Data",
+      "uuids": [
+        "37af447a-2400-4650-8c7e-974f09a5765d"
+      ],
+      "simple_name": "CGMatter-String-Data"
+    },
+    {
+      "path": "CGMatter/Topology",
+      "uuids": [
+        "bef40073-0729-4b1a-bc91-5811330e7238"
+      ],
+      "simple_name": "CGMatter-Topology"
+    },
+    {
+      "path": "CGMatter/Topology/Conversion",
+      "uuids": [
+        "bca7ad2a-41ad-474a-89a8-a2bafec906e3"
+      ],
+      "simple_name": "CGMatter-Topology-Conversion"
+    },
+    {
+      "path": "CGMatter/Topology/Global",
+      "uuids": [
+        "337dfa07-afd6-4b49-b182-2c859baa3e87"
+      ],
+      "simple_name": "CGMatter-Topology-Global"
+    },
+    {
+      "path": "CGMatter/Topology/Is?",
+      "uuids": [
+        "08a0eb16-a12d-4907-9a34-d3053b23680a"
+      ],
+      "simple_name": "CGMatter-Topology-Is?"
+    },
+    {
+      "path": "CGMatter/Topology/Island",
+      "uuids": [
+        "cfb81ca7-e5cf-4dd1-b834-8b947efcaaf3"
+      ],
+      "simple_name": "CGMatter-Topology-Island"
+    },
+    {
+      "path": "CGMatter/Topology/Local",
+      "uuids": [
+        "6297e7cb-02c8-42a8-a434-393727e4c2f6"
+      ],
+      "simple_name": "CGMatter-Topology-Local"
+    },
+    {
+      "path": "CGMatter/Topology/Neighbors",
+      "uuids": [
+        "237072d9-2c69-44b9-bad5-44eb5ebf307c"
+      ],
+      "simple_name": "CGMatter-Topology-Neighbors"
+    },
+    {
+      "path": "CGMatter/Volume",
+      "uuids": [
+        "f4f14308-b446-4f0a-9793-627b92527b58"
+      ],
+      "simple_name": "CGMatter-Volume"
+    },
+    {
+      "path": "CGMatter/Volume/Grids",
+      "uuids": [
+        "8ba7277f-0ec5-462d-a6da-3dfb8820e8d8"
+      ],
+      "simple_name": "CGMatter-Volume-Grids"
+    },
+    {
+      "path": "CGMatter/Volume/VDB",
+      "uuids": [
+        "8ad46762-5691-498e-b152-35debb63a1e4"
+      ],
+      "simple_name": "CGMatter-Volume-VDB"
+    }
+  ]
+}

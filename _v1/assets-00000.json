@@ -1,0 +1,5414 @@
+{
+  "asset_count": 245,
+  "file_count": 1,
+  "assets": [
+    {
+      "name": " Check Edge Coloring [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "03a1225f-7fdb-49b7-862d-30c7195e9be1",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "2D Delaunay [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "d0d35e8b-9353-4e51-bb7b-3dc0fda84793",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "2D Medial Axis [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "35641a02-bb3b-4ee6-8f6b-a09e86dd6b95",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Add Edge Supports [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "2ee45a25-7cb6-40bc-b879-9802096caeb0",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Add to Attribute [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "85bafb10-02ed-4f95-9370-1c3b8b499424",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Add Vector to Attribute [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "85bafb10-02ed-4f95-9370-1c3b8b499424",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Alphabet & Numbers [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "37af447a-2400-4650-8c7e-974f09a5765d",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Angle Between Vectors [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "b32b0a0e-82a8-4e49-86a0-1959f4eff9d7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Average Normal [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "337dfa07-afd6-4b49-b182-2c859baa3e87",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Average Vectors [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "b32b0a0e-82a8-4e49-86a0-1959f4eff9d7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Biggest/Smallest Face [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "337dfa07-afd6-4b49-b182-2c859baa3e87",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bisect [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "49b453fe-18d2-4657-8fe5-7662177e0274",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Blur Position [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "f34eb272-1e2d-46bf-83f3-df826664ace7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Border to Curve [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "2d2868b0-4b91-45b3-a961-1d01ca785b72",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Boundaries [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "337dfa07-afd6-4b49-b182-2c859baa3e87",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bounding Sphere [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "8c20fedf-d10e-4512-9be9-f1d63cef74ac",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bridge Edge Loops [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "49b453fe-18d2-4657-8fe5-7662177e0274",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bunny [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "7ed37031-741d-48dd-97ff-7dcb5daaf2d6",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Calculate Simulation Velocity [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "2ee45a25-7cb6-40bc-b879-9802096caeb0",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Calculate Velocity [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "682d788e-fdf8-47be-a0d1-aa08aef645d5",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Catenary Curve [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "702c1fe3-3c8f-4862-bab1-f66dc2c53793",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Catenary Field [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "55b0f3e3-7cc5-48c0-93c9-2f9e12002428",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Center Geometry [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "f34eb272-1e2d-46bf-83f3-df826664ace7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Center Islands [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "f34eb272-1e2d-46bf-83f3-df826664ace7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Center of Mass [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "337dfa07-afd6-4b49-b182-2c859baa3e87",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Check Face Coloring [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "03a1225f-7fdb-49b7-862d-30c7195e9be1",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Close Holes [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "49b453fe-18d2-4657-8fe5-7662177e0274",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Collapse Edges [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "49b453fe-18d2-4657-8fe5-7662177e0274",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Combine 4D Vector [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "7a08a6a0-2642-494c-a48a-62b7d485f54a",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Compare [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "c6f272b3-c81f-4580-b186-39f1b829dcc9",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Compare Frame [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "2858c093-e12a-4477-9424-8cdfd48eaf47",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Compare Index [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "55b0f3e3-7cc5-48c0-93c9-2f9e12002428",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Compare Island [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "cfb81ca7-e5cf-4dd1-b834-8b947efcaaf3",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Connect Nearest [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "49b453fe-18d2-4657-8fe5-7662177e0274",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Constant Grid [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "8ba7277f-0ec5-462d-a6da-3dfb8820e8d8",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Constant Vector Grid [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "8ba7277f-0ec5-462d-a6da-3dfb8820e8d8",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Conway Combine Effectors [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "6b382855-0707-45d4-b00d-b72baea8d07f",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Conway Down Effector [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "6b382855-0707-45d4-b00d-b72baea8d07f",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Conway Evaluate Neighbors [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "abcf470f-3a43-43f9-9628-328919880d0a",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Conway Grid [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "abcf470f-3a43-43f9-9628-328919880d0a",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Conway Index Effector [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "6b382855-0707-45d4-b00d-b72baea8d07f",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Conway Left Effector [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "6b382855-0707-45d4-b00d-b72baea8d07f",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Conway Neighbor Effector [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "6b382855-0707-45d4-b00d-b72baea8d07f",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Conway Right Effector [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "6b382855-0707-45d4-b00d-b72baea8d07f",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Conway Simulator [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "69f2969e-fcdf-4255-94e5-173401b3e80d",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Conway Sum Effector [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "6b382855-0707-45d4-b00d-b72baea8d07f",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Conway Up Effector [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "6b382855-0707-45d4-b00d-b72baea8d07f",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Copy Position [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "f34eb272-1e2d-46bf-83f3-df826664ace7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "cos/sin [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "c6f272b3-c81f-4580-b186-39f1b829dcc9",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Covariance Matrix [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "7a08a6a0-2642-494c-a48a-62b7d485f54a",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cross Covariance Matrix [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "7a08a6a0-2642-494c-a48a-62b7d485f54a",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cross Covariance Rotation [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "3a49091c-ffa5-4b62-8634-ab20d7172788",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Curve Tube [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "2d2868b0-4b91-45b3-a961-1d01ca785b72",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Dash Curve [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "b34ad4f9-6114-4276-8dd8-f5d600a9629f",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry.dash_curve_cgm_"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Decompose 3x3 Matrix Vol/Dev [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "7a08a6a0-2642-494c-a48a-62b7d485f54a",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Decrement [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "c6f272b3-c81f-4580-b186-39f1b829dcc9",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Degree [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "337dfa07-afd6-4b49-b182-2c859baa3e87",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Delaunay Flip [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "49b453fe-18d2-4657-8fe5-7662177e0274",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Delete Leaves [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "49b453fe-18d2-4657-8fe5-7662177e0274",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Displace w/ Nearest Points [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "f34eb272-1e2d-46bf-83f3-df826664ace7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Displace w/ Velocity Grid (SIM) [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "f34eb272-1e2d-46bf-83f3-df826664ace7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Distort [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "f34eb272-1e2d-46bf-83f3-df826664ace7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Distribute Points Inside Mesh [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "1c16803a-db16-47b7-94fe-7a78d589e7ab",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Distribute Points on Curve [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "1c16803a-db16-47b7-94fe-7a78d589e7ab",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Distribute Points on Moving Surface [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "1c16803a-db16-47b7-94fe-7a78d589e7ab",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Distribute Points on UVs [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "1c16803a-db16-47b7-94fe-7a78d589e7ab",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Double [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "c6f272b3-c81f-4580-b186-39f1b829dcc9",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Dragon [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "7ed37031-741d-48dd-97ff-7dcb5daaf2d6",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "dt [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "2858c093-e12a-4477-9424-8cdfd48eaf47",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Edge Length [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "6297e7cb-02c8-42a8-a434-393727e4c2f6",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Edges of Face [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "6297e7cb-02c8-42a8-a434-393727e4c2f6",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Erode Selection [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "55b0f3e3-7cc5-48c0-93c9-2f9e12002428",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Evaluate Position at Index [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "ed6215be-4fc4-4a6f-9396-622aee33a025",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Even Inset [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "49b453fe-18d2-4657-8fe5-7662177e0274",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Exact Fracture [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "1c3e7f75-aefc-4d54-a212-3dc4c695b5c1",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Explode View [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "1c3e7f75-aefc-4d54-a212-3dc4c695b5c1",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Extend Curve Endpoints [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "b34ad4f9-6114-4276-8dd8-f5d600a9629f",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Extract Isolines [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "35641a02-bb3b-4ee6-8f6b-a09e86dd6b95",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Faces of Edge [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "6297e7cb-02c8-42a8-a434-393727e4c2f6",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Field Range [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "9b3bb3e8-2bbf-485a-bc77-cd2cc6ffde7b",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Float Equation [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "c6f272b3-c81f-4580-b186-39f1b829dcc9",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Float Interpolation [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "c6f272b3-c81f-4580-b186-39f1b829dcc9",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Float to Vector [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "b32b0a0e-82a8-4e49-86a0-1959f4eff9d7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Fluid Collider Force (SIM) [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "a6f0d655-176f-4a60-8a64-15b19495f3b9",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Fluid Object Emitter [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "955a69b5-e98d-463e-b551-82aeba801b33",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Fluid Solver [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "6723afc6-0cde-4d0c-832e-c88f536cb7af",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Fluid Turbulence Force [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "a6f0d655-176f-4a60-8a64-15b19495f3b9",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Format Frame String [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "37af447a-2400-4650-8c7e-974f09a5765d",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "FPS [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "2858c093-e12a-4477-9424-8cdfd48eaf47",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Frames to Seconds [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "2858c093-e12a-4477-9424-8cdfd48eaf47",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Generated Coordinates [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "ed6215be-4fc4-4a6f-9396-622aee33a025",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Genus [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "337dfa07-afd6-4b49-b182-2c859baa3e87",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Get Boundary Grid [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "8ba7277f-0ec5-462d-a6da-3dfb8820e8d8",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Get Density Grid [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "8ba7277f-0ec5-462d-a6da-3dfb8820e8d8",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Get from Matrix Index [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "7a08a6a0-2642-494c-a48a-62b7d485f54a",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Get Grid Resolution [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "8ba7277f-0ec5-462d-a6da-3dfb8820e8d8",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Get Matrix Column [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "7a08a6a0-2642-494c-a48a-62b7d485f54a",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Get Matrix Row [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "7a08a6a0-2642-494c-a48a-62b7d485f54a",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Get Position [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "ed6215be-4fc4-4a6f-9396-622aee33a025",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Get Velocity Grid [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "8ba7277f-0ec5-462d-a6da-3dfb8820e8d8",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Greedy Coloring Solver [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "5b7a2dbd-0ee2-4039-ac2d-7c3e7613d642",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Grid Boundary [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "8ba7277f-0ec5-462d-a6da-3dfb8820e8d8",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Grid Circle [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "7ed37031-741d-48dd-97ff-7dcb5daaf2d6",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Grid Fill 2D [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "49b453fe-18d2-4657-8fe5-7662177e0274",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Grid Midpoint Advection [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "8ba7277f-0ec5-462d-a6da-3dfb8820e8d8",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Grid Statistics [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "8ba7277f-0ec5-462d-a6da-3dfb8820e8d8",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Half [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "c6f272b3-c81f-4580-b186-39f1b829dcc9",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Height Offset [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "f34eb272-1e2d-46bf-83f3-df826664ace7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Image Grid [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "7ed37031-741d-48dd-97ff-7dcb5daaf2d6",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Import VDB [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "8ad46762-5691-498e-b152-35debb63a1e4",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Increment [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "c6f272b3-c81f-4580-b186-39f1b829dcc9",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Inflate [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "f34eb272-1e2d-46bf-83f3-df826664ace7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Instance Dimensions [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "337dfa07-afd6-4b49-b182-2c859baa3e87",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Instant Fracture [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "1c3e7f75-aefc-4d54-a212-3dc4c695b5c1",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Invert Float [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "c6f272b3-c81f-4580-b186-39f1b829dcc9",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Is Border Edge [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "08a0eb16-a12d-4907-9a34-d3053b23680a",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Is Edge Manifold [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "08a0eb16-a12d-4907-9a34-d3053b23680a",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Is Even/Odd [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "c6f272b3-c81f-4580-b186-39f1b829dcc9",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Is N-Gon [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "08a0eb16-a12d-4907-9a34-d3053b23680a",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Is Quad [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "08a0eb16-a12d-4907-9a34-d3053b23680a",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Is Quad Convex [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "08a0eb16-a12d-4907-9a34-d3053b23680a",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Is Scale Applied [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "08a0eb16-a12d-4907-9a34-d3053b23680a",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Is Triangle [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "08a0eb16-a12d-4907-9a34-d3053b23680a",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Is Vertex Edge [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "08a0eb16-a12d-4907-9a34-d3053b23680a",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Island Statistics [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "cfb81ca7-e5cf-4dd1-b834-8b947efcaaf3",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Islands to Instances [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "cfb81ca7-e5cf-4dd1-b834-8b947efcaaf3",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Isotropic Remesh [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "d0d35e8b-9353-4e51-bb7b-3dc0fda84793",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Leaves [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "6297e7cb-02c8-42a8-a434-393727e4c2f6",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Line/Edge Graph [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "bca7ad2a-41ad-474a-89a8-a2bafec906e3",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Longest Edge of Face [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "6297e7cb-02c8-42a8-a434-393727e4c2f6",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Lowercase String [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "93be2aa5-f1ba-4e67-9be1-7cfe2de57c60",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Match Rigid Transform [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "f34eb272-1e2d-46bf-83f3-df826664ace7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Maximum Angle of Face [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "6297e7cb-02c8-42a8-a434-393727e4c2f6",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mean Curvature [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "337dfa07-afd6-4b49-b182-2c859baa3e87",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "MegaMath [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "c6f272b3-c81f-4580-b186-39f1b829dcc9",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Merge Curve [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "b34ad4f9-6114-4276-8dd8-f5d600a9629f",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mesh Dimensions [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "337dfa07-afd6-4b49-b182-2c859baa3e87",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mesh Statistics [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "337dfa07-afd6-4b49-b182-2c859baa3e87",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mesh SVD Orientation [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "3a49091c-ffa5-4b62-8634-ab20d7172788",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mesh to Topology Grid [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "8ba7277f-0ec5-462d-a6da-3dfb8820e8d8",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mesh to Velocity Grid (SIM) [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "8ba7277f-0ec5-462d-a6da-3dfb8820e8d8",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Minimum Angle of Face [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "6297e7cb-02c8-42a8-a434-393727e4c2f6",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multi-Add [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "c6f272b3-c81f-4580-b186-39f1b829dcc9",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multi-Add Vector [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "b32b0a0e-82a8-4e49-86a0-1959f4eff9d7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multi-Maximum [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "c6f272b3-c81f-4580-b186-39f1b829dcc9",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multi-Minimum [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "c6f272b3-c81f-4580-b186-39f1b829dcc9",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multi-Multiply [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "c6f272b3-c81f-4580-b186-39f1b829dcc9",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multi-Multiply Matrices [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "7a08a6a0-2642-494c-a48a-62b7d485f54a",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "MultiLine String [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "93be2aa5-f1ba-4e67-9be1-7cfe2de57c60",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Nearest Neighbor Statistics [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "237072d9-2c69-44b9-bad5-44eb5ebf307c",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Nearest Point Proximity [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "237072d9-2c69-44b9-bad5-44eb5ebf307c",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Nearest Surface Statistics [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "237072d9-2c69-44b9-bad5-44eb5ebf307c",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Neighborhood Statistics [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "237072d9-2c69-44b9-bad5-44eb5ebf307c",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Normalize Field [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "9b3bb3e8-2bbf-485a-bc77-cd2cc6ffde7b",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Normalize Field w/ Map Range [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "9b3bb3e8-2bbf-485a-bc77-cd2cc6ffde7b",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Normalize Geometry [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "f34eb272-1e2d-46bf-83f3-df826664ace7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Normalize Time Interval [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "2858c093-e12a-4477-9424-8cdfd48eaf47",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Normalized Noise [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "55b0f3e3-7cc5-48c0-93c9-2f9e12002428",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Offset Grid [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "8ba7277f-0ec5-462d-a6da-3dfb8820e8d8",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Offset Position w/ Normal [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "ed6215be-4fc4-4a6f-9396-622aee33a025",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Offset Vector Grid [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "8ba7277f-0ec5-462d-a6da-3dfb8820e8d8",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Old Position [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "682d788e-fdf8-47be-a0d1-aa08aef645d5",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Oriented Bounding Box [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "8c20fedf-d10e-4512-9be9-f1d63cef74ac",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pin To Camera [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "f34eb272-1e2d-46bf-83f3-df826664ace7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pins [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "682d788e-fdf8-47be-a0d1-aa08aef645d5",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Point Age [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "682d788e-fdf8-47be-a0d1-aa08aef645d5",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Points to Curve [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "2d2868b0-4b91-45b3-a961-1d01ca785b72",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Poke Faces [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "49b453fe-18d2-4657-8fe5-7662177e0274",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "QuadSphere [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "7ed37031-741d-48dd-97ff-7dcb5daaf2d6",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Random Rotation [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "3a49091c-ffa5-4b62-8634-ab20d7172788",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Random Sphere Vector [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "b32b0a0e-82a8-4e49-86a0-1959f4eff9d7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Random Value [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "c6f272b3-c81f-4580-b186-39f1b829dcc9",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Realize Collection [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "7ed37031-741d-48dd-97ff-7dcb5daaf2d6",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Recalculate Curves [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "b34ad4f9-6114-4276-8dd8-f5d600a9629f",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Reciprocal [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "c6f272b3-c81f-4580-b186-39f1b829dcc9",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Remove All Attributes [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "85bafb10-02ed-4f95-9370-1c3b8b499424",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Repeat Interval [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "c6f272b3-c81f-4580-b186-39f1b829dcc9",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Repel Points [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "e68eb12f-26dc-44cf-983d-61fb68f16a8a",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Reverse String [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "93be2aa5-f1ba-4e67-9be1-7cfe2de57c60",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sample Grid Neighbors [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "8ba7277f-0ec5-462d-a6da-3dfb8820e8d8",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sample Vector Grid Neighbors [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "8ba7277f-0ec5-462d-a6da-3dfb8820e8d8",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Scale 3x3 Matrix [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "7a08a6a0-2642-494c-a48a-62b7d485f54a",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Scale by dt [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "682d788e-fdf8-47be-a0d1-aa08aef645d5",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Screen-Space Position [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "ed6215be-4fc4-4a6f-9396-622aee33a025",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "SDF Remesh [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "d0d35e8b-9353-4e51-bb7b-3dc0fda84793",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Seconds to Frames [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "2858c093-e12a-4477-9424-8cdfd48eaf47",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Separate 4D Vector [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "7a08a6a0-2642-494c-a48a-62b7d485f54a",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Separate Boundary [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "0ab86b33-2281-4941-b525-882096318433",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Separate by Index [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "0ab86b33-2281-4941-b525-882096318433",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Separate by Island [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "0ab86b33-2281-4941-b525-882096318433",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Separate Position [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "ed6215be-4fc4-4a6f-9396-622aee33a025",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Show 4D Vector [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "11f0db5d-11d9-48ef-b6e9-ad1074126a7f",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Show Matrix [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "11f0db5d-11d9-48ef-b6e9-ad1074126a7f",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Show Value [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "11f0db5d-11d9-48ef-b6e9-ad1074126a7f",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Show Vector [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "11f0db5d-11d9-48ef-b6e9-ad1074126a7f",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Single Random Value [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "c6f272b3-c81f-4580-b186-39f1b829dcc9",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Single Random Vector [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "b32b0a0e-82a8-4e49-86a0-1959f4eff9d7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Slice Edge [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "49b453fe-18d2-4657-8fe5-7662177e0274",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Snap To Ground [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "f34eb272-1e2d-46bf-83f3-df826664ace7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Snap To Surface [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "f34eb272-1e2d-46bf-83f3-df826664ace7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Soldify Extrude [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "49b453fe-18d2-4657-8fe5-7662177e0274",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Spherize [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "f34eb272-1e2d-46bf-83f3-df826664ace7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Split Vector to Components [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "b32b0a0e-82a8-4e49-86a0-1959f4eff9d7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Square [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "c6f272b3-c81f-4580-b186-39f1b829dcc9",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Statistical Edge Coloring [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "5b7a2dbd-0ee2-4039-ac2d-7c3e7613d642",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Statistical Face Coloring [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "5b7a2dbd-0ee2-4039-ac2d-7c3e7613d642",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Store Acceleration [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "682d788e-fdf8-47be-a0d1-aa08aef645d5",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Store Born [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "682d788e-fdf8-47be-a0d1-aa08aef645d5",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Store Boundary Grid [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "8ba7277f-0ec5-462d-a6da-3dfb8820e8d8",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Store Edge Length [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "682d788e-fdf8-47be-a0d1-aa08aef645d5",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Store Old Position [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "682d788e-fdf8-47be-a0d1-aa08aef645d5",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Store Pins [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "682d788e-fdf8-47be-a0d1-aa08aef645d5",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Store Radius [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "682d788e-fdf8-47be-a0d1-aa08aef645d5",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Store UVMap [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "85bafb10-02ed-4f95-9370-1c3b8b499424",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Store Velocity Grid [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "8ba7277f-0ec5-462d-a6da-3dfb8820e8d8",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Suzanne [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "7ed37031-741d-48dd-97ff-7dcb5daaf2d6",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Teapot [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "7ed37031-741d-48dd-97ff-7dcb5daaf2d6",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Time [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "2858c093-e12a-4477-9424-8cdfd48eaf47",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Torus [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "7ed37031-741d-48dd-97ff-7dcb5daaf2d6",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Transform Animation [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "f34eb272-1e2d-46bf-83f3-df826664ace7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Transform to UVs [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "f34eb272-1e2d-46bf-83f3-df826664ace7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Triangle Parent [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "6297e7cb-02c8-42a8-a434-393727e4c2f6",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Turntable [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "f34eb272-1e2d-46bf-83f3-df826664ace7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Uppercase String [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "93be2aa5-f1ba-4e67-9be1-7cfe2de57c60",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "UV Grid [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "7ed37031-741d-48dd-97ff-7dcb5daaf2d6",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Vector Equation [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "b32b0a0e-82a8-4e49-86a0-1959f4eff9d7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Vector Grid Midpoint Advection [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "8ba7277f-0ec5-462d-a6da-3dfb8820e8d8",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Vector MegaMath [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "b32b0a0e-82a8-4e49-86a0-1959f4eff9d7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Verlet Integration [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "682d788e-fdf8-47be-a0d1-aa08aef645d5",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Vertices of Face [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "6297e7cb-02c8-42a8-a434-393727e4c2f6",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Volume Remesh [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "d0d35e8b-9353-4e51-bb7b-3dc0fda84793",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wrap to Circle [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "f34eb272-1e2d-46bf-83f3-df826664ace7",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "XPBD Combine Constraints [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "e9764473-33ba-4bfb-b46a-08aa4c2fa3ab",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "XPBD Combine Forces [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "e1733cab-612b-4792-a038-4a9e4232d869",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "XPBD Dampen Force [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "e1733cab-612b-4792-a038-4a9e4232d869",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "XPBD Drag Force [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "e1733cab-612b-4792-a038-4a9e4232d869",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "XPBD Edge Constraint [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "e9764473-33ba-4bfb-b46a-08aa4c2fa3ab",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "XPBD Floor Constraint [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "e9764473-33ba-4bfb-b46a-08aa4c2fa3ab",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "XPBD Gravity Force [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "e1733cab-612b-4792-a038-4a9e4232d869",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "XPBD Object Collision Constraint [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "e9764473-33ba-4bfb-b46a-08aa4c2fa3ab",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "XPBD Pins Constraint [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "e9764473-33ba-4bfb-b46a-08aa4c2fa3ab",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "XPBD Repel/Attract Force [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "e1733cab-612b-4792-a038-4a9e4232d869",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "XPBD Self Island Collision Constraint [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "e9764473-33ba-4bfb-b46a-08aa4c2fa3ab",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "XPBD Self Point Collision Constraint [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "e9764473-33ba-4bfb-b46a-08aa4c2fa3ab",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "XPBD Solver [CGM]",
+      "id_type": "NODETREE",
+      "files": [
+        "cgmatter_nodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "761e611d-1fcd-49e1-90a1-8577c9406e50",
+        "author": "CGMatter",
+        "description": "from cgmatter.com",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "cgmatter_nodes.blend",
+      "size_in_bytes": 26186734,
+      "hash": "SHA256:a0352e5765071a078ff8e554682de3b56b977ceb671bbf8e29d086888381a1ae",
+      "blender_version": "5.2.44"
+    }
+  ]
+}

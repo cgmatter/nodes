@@ -1,0 +1,64 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+a0342260-33fd-4d05-8c24-c718a7d1112f:CGMatter:CGMatter
+e012f4e9-d34e-4d44-85fd-cf22b6cd4e2e:CGMatter/Curve:CGMatter-Curve
+2d2868b0-4b91-45b3-a961-1d01ca785b72:CGMatter/Curve/Convert:CGMatter-Curve-Convert
+b34ad4f9-6114-4276-8dd8-f5d600a9629f:CGMatter/Curve/Edit:CGMatter-Curve-Edit
+702c1fe3-3c8f-4862-bab1-f66dc2c53793:CGMatter/Curve/Primitive:CGMatter-Curve-Primitive
+362890dc-abd4-4f89-84df-d3c0850ccfe7:CGMatter/Distribution:CGMatter-Distribution
+1c16803a-db16-47b7-94fe-7a78d589e7ab:CGMatter/Distribution/Points:CGMatter-Distribution-Points
+45c42e8c-7091-4d41-9229-6ae69ae15475:CGMatter/Fields:CGMatter-Fields
+9b3bb3e8-2bbf-485a-bc77-cd2cc6ffde7b:CGMatter/Fields/Math:CGMatter-Fields-Math
+55b0f3e3-7cc5-48c0-93c9-2f9e12002428:CGMatter/Fields/Misc:CGMatter-Fields-Misc
+682d788e-fdf8-47be-a0d1-aa08aef645d5:CGMatter/Fields/Physics:CGMatter-Fields-Physics
+ed6215be-4fc4-4a6f-9396-622aee33a025:CGMatter/Fields/Position:CGMatter-Fields-Position
+2858c093-e12a-4477-9424-8cdfd48eaf47:CGMatter/Fields/Time:CGMatter-Fields-Time
+91756c3e-cc01-4657-b597-d789ec6c77fc:CGMatter/Math:CGMatter-Math
+11f0db5d-11d9-48ef-b6e9-ad1074126a7f:CGMatter/Math/Debug:CGMatter-Math-Debug
+c6f272b3-c81f-4580-b186-39f1b829dcc9:CGMatter/Math/Float:CGMatter-Math-Float
+7a08a6a0-2642-494c-a48a-62b7d485f54a:CGMatter/Math/Matrix:CGMatter-Math-Matrix
+3a49091c-ffa5-4b62-8634-ab20d7172788:CGMatter/Math/Rotation:CGMatter-Math-Rotation
+b32b0a0e-82a8-4e49-86a0-1959f4eff9d7:CGMatter/Math/Vector:CGMatter-Math-Vector
+14b16154-3f53-4e33-b129-009c1b5a6089:CGMatter/Mesh:CGMatter-Mesh
+85bafb10-02ed-4f95-9370-1c3b8b499424:CGMatter/Mesh/Attributes:CGMatter-Mesh-Attributes
+8c20fedf-d10e-4512-9be9-f1d63cef74ac:CGMatter/Mesh/Bounds:CGMatter-Mesh-Bounds
+49b453fe-18d2-4657-8fe5-7662177e0274:CGMatter/Mesh/Edit:CGMatter-Mesh-Edit
+7ed37031-741d-48dd-97ff-7dcb5daaf2d6:CGMatter/Mesh/Primitives:CGMatter-Mesh-Primitives
+d0d35e8b-9353-4e51-bb7b-3dc0fda84793:CGMatter/Mesh/Remesh:CGMatter-Mesh-Remesh
+0ab86b33-2281-4941-b525-882096318433:CGMatter/Mesh/Separate:CGMatter-Mesh-Separate
+f34eb272-1e2d-46bf-83f3-df826664ace7:CGMatter/Mesh/Transform:CGMatter-Mesh-Transform
+e68eb12f-26dc-44cf-983d-61fb68f16a8a:CGMatter/Solvers:CGMatter-Solvers
+c9244cbe-5219-43f6-a829-c9c7c37d5605:CGMatter/Solvers/Coloring:CGMatter-Solvers-Coloring
+5b7a2dbd-0ee2-4039-ac2d-7c3e7613d642:CGMatter/Solvers/Coloring/Algorithms:CGMatter-Solvers-Coloring-Algorithms
+03a1225f-7fdb-49b7-862d-30c7195e9be1:CGMatter/Solvers/Coloring/Validators:CGMatter-Solvers-Coloring-Validators
+69f2969e-fcdf-4255-94e5-173401b3e80d:CGMatter/Solvers/Conway:CGMatter-Solvers-Conway
+6b382855-0707-45d4-b00d-b72baea8d07f:CGMatter/Solvers/Conway/Effectors:CGMatter-Solvers-Conway-Effectors
+abcf470f-3a43-43f9-9628-328919880d0a:CGMatter/Solvers/Conway/Helpers:CGMatter-Solvers-Conway-Helpers
+6723afc6-0cde-4d0c-832e-c88f536cb7af:CGMatter/Solvers/Fluid:CGMatter-Solvers-Fluid
+955a69b5-e98d-463e-b551-82aeba801b33:CGMatter/Solvers/Fluid/Emitter:CGMatter-Solvers-Fluid-Emitter
+a6f0d655-176f-4a60-8a64-15b19495f3b9:CGMatter/Solvers/Fluid/Forces:CGMatter-Solvers-Fluid-Forces
+1c3e7f75-aefc-4d54-a212-3dc4c695b5c1:CGMatter/Solvers/Fracture:CGMatter-Solvers-Fracture
+35641a02-bb3b-4ee6-8f6b-a09e86dd6b95:CGMatter/Solvers/SDF:CGMatter-Solvers-SDF
+761e611d-1fcd-49e1-90a1-8577c9406e50:CGMatter/Solvers/XPBD:CGMatter-Solvers-XPBD
+e9764473-33ba-4bfb-b46a-08aa4c2fa3ab:CGMatter/Solvers/XPBD/Constraints:CGMatter-Solvers-XPBD-Constraints
+e1733cab-612b-4792-a038-4a9e4232d869:CGMatter/Solvers/XPBD/Forces:CGMatter-Solvers-XPBD-Forces
+2ee45a25-7cb6-40bc-b879-9802096caeb0:CGMatter/Solvers/XPBD/Helpers:CGMatter-Solvers-XPBD-Helpers
+90bb66b3-91cc-4165-84b3-59f8c4131b64:CGMatter/String:CGMatter-String
+93be2aa5-f1ba-4e67-9be1-7cfe2de57c60:CGMatter/String/Conversion:CGMatter-String-Conversion
+37af447a-2400-4650-8c7e-974f09a5765d:CGMatter/String/Data:CGMatter-String-Data
+bef40073-0729-4b1a-bc91-5811330e7238:CGMatter/Topology:CGMatter-Topology
+bca7ad2a-41ad-474a-89a8-a2bafec906e3:CGMatter/Topology/Conversion:CGMatter-Topology-Conversion
+337dfa07-afd6-4b49-b182-2c859baa3e87:CGMatter/Topology/Global:CGMatter-Topology-Global
+08a0eb16-a12d-4907-9a34-d3053b23680a:CGMatter/Topology/Is?:CGMatter-Topology-Is?
+cfb81ca7-e5cf-4dd1-b834-8b947efcaaf3:CGMatter/Topology/Island:CGMatter-Topology-Island
+6297e7cb-02c8-42a8-a434-393727e4c2f6:CGMatter/Topology/Local:CGMatter-Topology-Local
+237072d9-2c69-44b9-bad5-44eb5ebf307c:CGMatter/Topology/Neighbors:CGMatter-Topology-Neighbors
+f4f14308-b446-4f0a-9793-627b92527b58:CGMatter/Volume:CGMatter-Volume
+8ba7277f-0ec5-462d-a6da-3dfb8820e8d8:CGMatter/Volume/Grids:CGMatter-Volume-Grids
+8ad46762-5691-498e-b152-35debb63a1e4:CGMatter/Volume/VDB:CGMatter-Volume-VDB
