@@ -1,2 +1,2 @@
-# nodes
-CGMatter nodes online asset library
+# CGMatter Nodes
+Online asset library of nodegroups
